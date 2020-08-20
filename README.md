@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - python, serverless, DevOps
-- 🌱 I’m currently learning - DevOps with kubernetes 
+- 🌱 I’m currently learning - DevOps with kubernetes, python flask 
 - 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
 - 📫 How to reach me - Twitter @vivek_sridhar
 
