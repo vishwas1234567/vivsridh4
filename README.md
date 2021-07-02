@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on - python, serverless, DevOps, Containers, Kubernetes
-- 🌱 I’m currently learning - DevOps with kubernetes, python flask, CNCF tools
+- 🌱 I’m currently learning - DevOps with kubernetes, python flask, CNCF tools, AI/ML
 - 💬 Ask me about - python, serverless, DevOps, scaling applications in cloud, communities, traveling & more
 - 📫 How to reach me - Twitter @vivek_sridhar
 
